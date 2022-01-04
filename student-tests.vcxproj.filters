@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P1_2\P1_2\student_catch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P1_2\P1_2\Matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P1_2\P1_2\Hill.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P1_2\P1_2\student_tests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P1_2\P1_2\catch.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P1_2\P1_2\Matrix.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P1_2\P1_2\Hill.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P1_2\P1_2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{30EB13FC-0398-3FEA-9F7D-C41542961766}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FB2981FB-1018-3D83-88ED-4BEC58BF755C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
